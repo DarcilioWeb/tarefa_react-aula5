@@ -1,0 +1,22 @@
+{
+  "Aluno": [
+    {
+      "id": "1",
+      "nome": "darcilio",
+      "email": "testeemail1.github.com",
+      "curso": "Sistemas para internet"
+    },
+    {
+      "id": "2",
+      "nome": "darcilio",
+      "email": "testeemail.github.com",
+      "curso": "Cibersegurança"
+    },
+    {
+      "id": "03bc",
+      "nome": "teste",
+      "email": "teste",
+      "curso": "teste"
+    }
+  ]
+}
